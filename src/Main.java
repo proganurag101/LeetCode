@@ -43,7 +43,7 @@ public class Main {
             arr[i] = sc.nextInt();
         }
 
-        rotateInPlace(arr,2);
+        rotateInPlace(arr,101);
 
 
 
